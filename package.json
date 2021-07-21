@@ -1,0 +1,23 @@
+{
+  "name": "rxjs-cheat",
+  "version": "1.0.0",
+  "description": "Rxjs tutorial and cheat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieunh1801/rxjs-cheat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieunh1801/rxjs-cheat/issues"
+  },
+  "homepage": "https://github.com/hieunh1801/rxjs-cheat#readme",
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
